@@ -213,6 +213,7 @@ A boolean of whether you're running in a context with a [DOM](https://developer.
 ## Related
 
 - [react-router-util](https://github.com/sindresorhus/react-router-util) - Useful components and utilities for working with React Router
+- [sass-extras](https://github.com/sindresorhus/sass-extras) - Useful utilities for working with Sass
 
 
 ## License
